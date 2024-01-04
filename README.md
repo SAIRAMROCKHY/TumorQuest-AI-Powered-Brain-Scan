@@ -40,7 +40,7 @@ First, install the following:
 * Python
 
 ```bash
-git clone 
+git clone https://github.com/SAIRAMROCKHY/TumorQuest-AI-Powered-Brain-Scan
 ```
 * Go to your project directory where all the files are present.
 ```bash
@@ -58,7 +58,7 @@ streamlit run about.py
 ```
 * Enjoy the app!
 
-## Website Link :globe_with_meridians: : https://TumourQuest.streamlit.app/
+## Website Link : 
 
 ## Social Impact / Novelty:
 **TumourQuest** is a socially impactful and innovative solution that brings together AI technology, data privacy, and streamlined healthcare services to empower patients, advance medical practices, and improve brain health outcomes. Its emphasis on early detection, privacy, and informed decision-making holds the potential to positively impact the lives of countless individuals and contribute to the broader advancement of healthcare practices.
